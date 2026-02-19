@@ -1,7 +1,8 @@
-## Hi there, I'm Sanika Patil 👋
+<h1 align="center">Hi there, I'm Sanika Patil! 👋</h1>
 
 ## 🚀 About Me
-Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud services and modern DevOps tools. Passionate about designing, deploying, and automating scalable, reliable, and secure cloud infrastructures. Continuously learning new technologies and best practices to build efficient solutions. Welcome to my GitHub profile!
+Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud services and modern DevOps tools. Passionate about designing, deploying, and automating scalable, reliable, and secure cloud infrastructures. Continuously learning new technologies and best practices to build efficient, production-ready solutions. Welcome to my GitHub profile!
+
 ---
 
 ## 🛠️ Skills
@@ -23,21 +24,19 @@ Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud s
 
 ## 📌 Projects
 
-Here are a few noteworthy projects I have worked on:
-
 ### 🔹 Jenkins CI/CD Pipeline
-- Automated build & deploy using Jenkins, Docker & GitHub
+- Automated build and deployment using Jenkins, Docker, and GitHub.
 
-### 🔹 Static Website Hosting on S3
-- Hosted static website using AWS S3 + IAM
+### 🔹 Static Website Hosting on AWS S3
+- Hosted a static website using AWS S3 with IAM-based access control.
 
 ---
 
 ## 🎓 Education
-- Master’s of Science (Computer Science) – Shivaji University, Kolhapur (2025–2027)
+- Master of Science (Computer Science) – Shivaji University, Kolhapur (2025–2027)
 - Bachelor of Science (Computer Science) – Shivaji University, Kolhapur (2022–2025)
 
-
+---
 
 ## 🤝 Connect with Me
 
