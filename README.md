@@ -5,16 +5,25 @@ Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud s
 ---
 
 ## 🛠️ Skills
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png"/>
+  <img src="https://img.icons8.com/color/48/linux.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/terraform.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/nginx.png"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png"/>
+  <img src="https://img.icons8.com/color/48/ansible.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+</p>
 
 ---
 
 ## 📌 Projects
+
+Here are a few noteworthy projects I have worked on:
 
 ### 🔹 Jenkins CI/CD Pipeline
 - Automated build & deploy using Jenkins, Docker & GitHub
@@ -24,22 +33,19 @@ Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud s
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sanika-patil-9ab392321/
-- 💻 GitHub: https://github.com/sanikapatil3005
+## 🎓 Education
+- Master’s of Science (Computer Science) – Shivaji University, Kolhapur (2025–2027)
+- Bachelor of Science (Computer Science) – Shivaji University, Kolhapur (2022–2025)
 
 
-<!--
-**sanikapatil3005/sanikapatil3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🤝 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/sanikapatil3005">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanika-patil-9ab392321/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
