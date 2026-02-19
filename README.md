@@ -1,8 +1,7 @@
 ## Hi there, I'm Sanika Patil 👋
 
 ## 🚀 About Me
-Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS, CI/CD, and containerization.
-
+Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud services and modern DevOps tools. Passionate about designing, deploying, and automating scalable, reliable, and secure cloud infrastructures. Continuously learning new technologies and best practices to build efficient solutions. Welcome to my GitHub profile!
 ---
 
 ## 🛠️ Skills
