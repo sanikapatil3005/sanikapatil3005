@@ -34,6 +34,8 @@ Highly motivated Cloud & DevOps Engineer with hands-on experience in AWS cloud s
 
 ## 🎓 Education
 - Bachelor of Science (Computer Science) – Shivaji University, Kolhapur (2022–2025)
+- Master of Science (Computer Science) – Shivaji University, Kolhapur (2025-Present)
+
 
 ---
 
